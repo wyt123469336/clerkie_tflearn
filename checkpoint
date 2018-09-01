@@ -1,2 +1,2 @@
-model_checkpoint_path: "/home/yitao/Documents/clerkie_tenserflow/rnn.model"
-all_model_checkpoint_paths: "/home/yitao/Documents/clerkie_tenserflow/rnn.model"
+model_checkpoint_path: "/home/yitao/Documents/clerkie_tenserflow/tf_nn.model"
+all_model_checkpoint_paths: "/home/yitao/Documents/clerkie_tenserflow/tf_nn.model"
