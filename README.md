@@ -22,4 +22,4 @@ scipy.cluster.hierarchy
 
 
 #python3 clerkie_run.py
-#https://www.youtube.com/watch?v=3Ogo1gC5LW8&feature=youtu.be
+#https://www.youtube.com/watch?v=F-ymcGaYdNo&feature=youtu.be
